@@ -1,19 +1,19 @@
-****************************************************************************************
-* #Como colocar Favicon                                                                *
-* >Code: <link rel="shortcut icon" href="caminhoarquivo/nomedoicon.ico" />             *
-*                                                                                      *
-* **_Obrigatoriamente a imagem tenq ser .ico está é uma extensão usada para ícones_**  *
-*                                                                                      *
-****************************************************************************************
+********************************************************************************************
+   #Como colocar Favicon                                                                                                   
+ `<link  rel="shortcut icon" href="caminhoarquivo/nomedoicon.ico" /> `                
+                                                                                                                                       
+  **_Obrigatoriamente a imagem tenq ser .ico está é uma extensão usada para ícones_**  
+                                                                                                                                      
+********************************************************************************************
 
 ----------------------------------------------------------------------------------------------------
 
-****************************************************************************************************
-* #Mudar BackGround                                                                                *
-*  > Edite o código: "background-image: url("https://cdn.wallpapersafari.com/10/71/t8cT7z.jpg");"  *
-*  > Mude "https://cdn.wallpapersafari.com/10/71/t8cT7z.jpg" para a imagem desejada                *
-*                                                                                                  *
-****************************************************************************************************
+*****************************************************************************************************
+    #Mudar BackGround                                                                                                                    
+    `Edite o código: "background-image: url("https://cdn.wallpapersafari.com/10/71/t8cT7z.jpg");" `
+    `Mude "https://cdn.wallpapersafari.com/10/71/t8cT7z.jpg" para a imagem desejada `                 
+                                                                                                                                                      
+*****************************************************************************************************
 
 
 #Copy and paste Code 
